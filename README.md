@@ -34,8 +34,8 @@ Before getting started, ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/calculator-microservice.git
-cd calculator-microservice
+git clone https://github.com/deelakar/sit737-2025-prac4p.git
+cd sit737-2025-prac4p
 ```
 
 ### 2. Install Dependencies
